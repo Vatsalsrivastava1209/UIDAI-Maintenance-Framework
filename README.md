@@ -29,7 +29,7 @@ High-enrolment districts suffer low update rates → stale biometric/demographic
 - Data: UIDAI anonymized enrolment/update CSVs + NITI Champions of Change (Financial Inclusion)
 
 ### Repository Structure
-
+-
 Uidai-project/
 ├── UIDAI Project.ipynb          # Main analysis notebook
 ├── financial_inclusion.csv      # NITI Aayog data for validation
@@ -38,7 +38,7 @@ Uidai-project/
 ├── my_plot.png                  # Sample visualization
 ├── utils/                       # Helper functions (config.py, helpers.py)
 └── README.md
-
+-
 
 ### How to Run
 1. Clone repo: `git clone https://github.com/Vatsalsrivastava1209/Uidai-project.git`
