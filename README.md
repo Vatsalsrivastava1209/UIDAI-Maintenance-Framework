@@ -38,7 +38,7 @@ Uidai-project/
 ├── my_plot.png                  # Sample visualization
 ├── utils/                       # Helper functions (config.py, helpers.py)
 └── README.md
--
+
 
 ### How to Run
 1. Clone repo: `git clone https://github.com/Vatsalsrivastava1209/Uidai-project.git`
