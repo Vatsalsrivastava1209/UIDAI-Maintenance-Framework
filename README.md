@@ -57,6 +57,6 @@ Uidai-project/
 - Anomaly detection for fraud patterns
 
 Feedback / collaboration welcome!  
-VaTsaL (@Codat_V) | Open to data analytics/science roles
+VaTsaL (@Codat_V) On X | Open to data analytics/science roles
 
 #data-science #aadhaar #uidai #hackathon #python #plotly
