@@ -3,10 +3,6 @@
 **Built for UIDAI Data Hackathon 2026**  
 District-level prioritization engine using Aadhaar enrolment/update data to identify high-risk areas for stale records and authentication failures.
 
-<details>
-**Live Demo / Interactive Dashboard**: [Link to nbviewer or GitHub Pages if you host it — or "Run locally with Jupyter"]
-**Full Report (PDF)**: [Upload the PDF to repo and link here: Aadhaar_Risk_Framework_Report.pdf]
-</details>
 
 ### Problem
 High-enrolment districts suffer low update rates → stale biometric/demographic data → authentication failures, exclusion, governance risk.
