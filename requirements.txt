@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+prophet
+plotly
+ipywidgets
+matplotlib
+seaborn
+yellowbrick
